@@ -43,6 +43,6 @@ const CommentInput = (props) => {
       </div>
     </form>
   );
-}
+};
 
 export default connect(() => ({}), mapDispatchToProps)(CommentInput);
