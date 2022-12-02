@@ -66,6 +66,6 @@ const Header = (props) => {
       )}
     </nav>
   );
-}
+};
 
 export default Header;
